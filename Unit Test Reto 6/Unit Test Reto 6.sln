@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Test Reto 6", "Unit Test Reto 6.csproj", "{A3F5D565-16B2-42D1-8F88-AF3BDA774F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto_6", "..\Cache\Reto_6.csproj", "{E6874EB4-E9CD-4604-8D17-782DBD69D4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F5D565-16B2-42D1-8F88-AF3BDA774F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F5D565-16B2-42D1-8F88-AF3BDA774F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F5D565-16B2-42D1-8F88-AF3BDA774F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F5D565-16B2-42D1-8F88-AF3BDA774F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6874EB4-E9CD-4604-8D17-782DBD69D4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6874EB4-E9CD-4604-8D17-782DBD69D4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6874EB4-E9CD-4604-8D17-782DBD69D4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6874EB4-E9CD-4604-8D17-782DBD69D4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
